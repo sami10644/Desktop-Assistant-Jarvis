@@ -1,2 +1,2 @@
 # Desktop-Assistant-Jarvis
-Just see it
+After I learned python . This is the one which amazed me and incourage me to see the powerful visionary automate world by coding . simple task such as opening music ,sending mail, surfing net and other stuff were being fucntioned there . Since A pro like You watching this readme I would like to say  Its been a great pleasure as you are reading this . Hope you would like to see my other work .
