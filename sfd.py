@@ -4,7 +4,6 @@ from bs4 import BeautifulSoup
 import time
 
 
-
 def notifyMe(title, message):
     notification.notify(
         title = title,
